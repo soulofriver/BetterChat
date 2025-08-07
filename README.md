@@ -43,7 +43,7 @@ To run BetterChat, you need Python 3.x installed on your system.
 
 Clone the repository (or download bc.py):
 
-git clone https://github.com/your-username/betterchat.git
+git clone https://github.com/soulofriver/betterchat.git
 cd betterchat
 
 (If you just have bc.py, simply navigate to its directory.)
